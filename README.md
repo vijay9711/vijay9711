@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay9711" alt="vijay9711" /></a> </p>
 
-- 🔭 I’m currently working on **Redwood js**
+- 📚 I’m currently doing my **Master in Computer Science**
+  
+- 🏫 In **Maharishi International University, IOWA, USA.**
 
 - 🌱 I’m currently learning **RedwoodJs**
 
