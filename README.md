@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vijay Manoharan</h1>
-<h3 align="center">A passionate full stack web developer.</h3>
+<h1 href="https://vijay9711.github.io/Vijay-portfolio/#home" align="center">Hi 👋, I'm Vijay Manoharan</h1>
+<h3 href="https://vijay9711.github.io/Vijay-portfolio/#home" align="center">A passionate full stack web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay9711&label=Profile%20views&color=0e75b6&style=flat" alt="vijay9711" /> </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vijay9711&show_icons=true&locale=en" alt="vijay9711" /></p>   
