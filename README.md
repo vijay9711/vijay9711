@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vijay-m-7128b713b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-m-7128b713b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijay-manoharan-7128b713b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-manoharan-7128b713b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9939930/vijay-mano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9939930/vijay-mano" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100005846283833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005846283833" height="30" width="40" /></a>
 <a href="https://instagram.com/vj_97_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vj_97_11/?igshid=ogq5zdc2odk2za%3d%3d" height="30" width="40" /></a>
